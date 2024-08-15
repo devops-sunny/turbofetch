@@ -393,7 +393,3 @@ self.addEventListener('message', (event) => {
 
 ### License
 MIT
-**Free Software**
-
-#   t u r b o f e t c h  
- 
