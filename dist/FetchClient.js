@@ -140,6 +140,10 @@ class FetchClient {
         this.dbName = dbName;
     }
 
+    setstoreName(Name){
+        this.storeName = Name;
+    }
+
     incrementApiCount() {
         this.apiCount++;
         if (this.apiCount === 1) {
