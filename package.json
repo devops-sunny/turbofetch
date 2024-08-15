@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A flexible and efficient fetch client for TypeScript.",
   "main": "dist/FetchClient.js",
-  "types": "dist/FetchClient.d.ts",
   "type": "module",
   "scripts": {
     "build": "tsc",
